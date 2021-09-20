@@ -8,7 +8,7 @@ enum Unit {
     cm(i32),
 }
 
-pub enum color {
+pub enum Color {
     Red,
     Blue,
     Green,

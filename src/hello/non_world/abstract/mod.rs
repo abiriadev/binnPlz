@@ -1,18 +1,19 @@
 pub mod attributes;
-enum emotion {
+
+pub enum emotion {
     Love,
     Happiness,
     Sad,
     Angry,
 }
 
-enum motion {
+pub enum motion {
     Move,
     Swim,
     Drive,
     Walk,
 }
 
-fn how_many_abstract_things() {
+pub fn how_many_abstract_things() {
     println!("idk");
 }
